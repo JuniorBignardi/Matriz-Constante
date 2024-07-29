@@ -16,5 +16,6 @@ secundária, possui o mesmo valor. Este valor é chamado de constante da matriz.
 ```bash
 git clone https://github.com/JuniorBignardi/Matriz-Constante.git # clona o repositório localmente
 cd MatrizConstante # entra na pasta do código
+cd src
 python matrizconstante.py # executa o código
 ```
